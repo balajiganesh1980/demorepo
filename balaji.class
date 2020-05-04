@@ -1,0 +1,3 @@
+class balaji{
+	public static void main(string[] arg){
+	system.out.printin("this is my first program");}}
